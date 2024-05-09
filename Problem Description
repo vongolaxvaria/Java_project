@@ -1,0 +1,7 @@
+//Need to make a system using java
+functions: 1. register
+           2. login
+
+requirement: 1. Vue.js for frontend
+             2. SQL
+             3. Maven
